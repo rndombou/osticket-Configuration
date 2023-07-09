@@ -41,7 +41,7 @@ We will add agents in the "Agents" section while being logged in as an admin. We
 </p>
 EXAMPLE 1B
 <p>
-<img src="https://i.imgur.com/iHp42vC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/OOfDtbA" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 STEP 2 – CONFIGURE DEPARTMENTS
 <p>
